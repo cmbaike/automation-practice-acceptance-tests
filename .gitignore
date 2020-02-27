@@ -55,6 +55,7 @@ Thumbs.db
 
 # Binary Downloads #
 ####################
-**/selenium_standalone_binaries/
-**/selenium_standalone_zips/
-
+bin/
+project/
+target/
+build/
